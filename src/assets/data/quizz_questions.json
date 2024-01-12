@@ -1,24 +1,22 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Qual seria seu superpoder inútil? ",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Qual superpoder inútil você escolheria para animar sua vida diária ?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":" Capacidade de fazer com que semáforos sempre fiquem verdes quando você se aproxima.", "alias":"A"},
+        {"id": 2, "name":"O dom de encontrar sempre a meia perdida na lavanderia.", "alias":"B"},
+        {"id": 3, "name":"Habilidade de transformar qualquer conversa chata em um musical espontâneo.", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Seu superpoder inútil seria... ?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":" Fazer com que todas as canetas escrevam na primeira tentativa.", "alias":"A"},
+        {"id": 2, "name":"Capacidade de prever o sabor exato de qualquer prato antes de experimentá-lo.", "alias":"A"},
+        {"id": 3, "name":"Transformar qualquer chuva de confete em dinheiro de pochete.", "alias":"B"}
       ]
     },
     {
@@ -33,23 +31,23 @@
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Qual superpoder inútil tornaria sua rotina mais divertida? ",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"O poder de fazer com que objetos perdidos apareçam quando você não precisa mais deles.", "alias":"A"},
+        {"id": 2, "name":"Capacidade de traduzir automaticamente o miado do seu gato em mensagens de amor.", "alias":"B"}
       ]
     },
     {
       "id":5,
       "question": "Qual o seu apelido de super ser ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Sujismundo", "alias":"A"},
+        {"id": 2, "name":"Ninguém te conhece", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente seria um super heroi muito inútil!",
+    "B": "A inutilidade as vezes pode ser um dom!"
   }
 }
